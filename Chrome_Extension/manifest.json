@@ -1,0 +1,11 @@
+{
+    "name":"Exchanges",
+    "version":"1.0",
+    "manifest_version":3,
+    "description":"Extension to convert the currencies",
+    "action":{
+        "default_icon":"currencies.png",
+        "default_popup":"index.html"
+    }
+
+}
